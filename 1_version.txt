@@ -1,0 +1,90 @@
+осы жердегін тазарту керек
+Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Exclusions\Paths
+Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Exclusions\Processes
+Компьютер\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\WinSysCache
+Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\SecurityHealth
+
+Өшіру керек файлдар
+C:\ProgramData\Microsoft\Windows\d7j0f.exe
+C:\ProgramData\Microsoft\Windows\z1a5c.exe
+C:\ProgramData\Microsoft\Windows\wwrxr.exe
+C:\ProgramData\Microsoft\Windows\v0msx.exe
+C:\ProgramData\Microsoft\Windows\u3l4k.exe
+C:\ProgramData\Microsoft\Windows\t6opi.exe
+C:\ProgramData\Microsoft\Windows\oc36z.exe
+C:\ProgramData\Microsoft\Windows\lgn1i.exe
+C:\ProgramData\Microsoft\Windows\l243r.exe
+C:\ProgramData\Microsoft\Windows\kxj7t.exe
+C:\ProgramData\Microsoft\Windows\idgyy.exe
+C:\ProgramData\Microsoft\Windows\ej8br.exe
+C:\ProgramData\Microsoft\Windows\45ibk.exe
+C:\ProgramData\Microsoft\Windows\8mmur.exe
+C:\ProgramData\Microsoft\Windows\8maxg.exe
+C:\ProgramData\Microsoft\Windows\5oq1t.exe
+C:\ProgramData\Microsoft\Windows\1zk1e.exe
+C:\ProgramData\Microsoft\Windows\1n5be.exe
+C:\Users\Abeken_A\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\RuntimeHost
+
+
+
+
+Осы папкаларды өшіру керек
+C:\Users\Abeken_A\AppData\Local\Microsoft\Windows\Caches\AAADE3DC
+C:\Users\Abeken_A\AppData\Roaming\Microsoft\Windows\Caches\6230B266
+C:\Users\Abeken_A\AppData\Roaming\Microsoft\Windows\Caches\E55A0A03
+C:\Users\Abeken_A\AppData\Local\Microsoft\Windows\8B86CBC
+C:\ProgramData\7979061C
+C:\ProgramData\BF327029
+C:\ProgramData\B95EB893
+C:\ProgramData\C5FDA2BD
+
+
+
+
+
+Планировщик заданий очистит есту керек taskschd.msc
+ProxiesPeer
+Windows System Health
+Windows System Health Check
+Windows System Health Monitor
+WU_1882d487
+WU_1d0d8495
+WU_2d655630
+WU_546bd738
+WU_67155f18
+WU_8a756427
+WU_93a7ced4
+WU_97ab3351
+WU_a4f4c391
+WU_b7329209
+WU_bc7477bb
+WU_cb6a8387
+WU_cbdff8fc
+WU_dd719c59
+WU_dfef0fdb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
