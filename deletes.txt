@@ -1,8 +1,7 @@
 осы жердегін тазарту керек
 Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Exclusions\Paths
 Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Exclusions\Processes
-Компьютер\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\WinSysCache
-Компьютер\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\SecurityHealth
+
 
 Өшіру керек файлдар
 C:\ProgramData\Microsoft\Windows\d7j0f.exe
